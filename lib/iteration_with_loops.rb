@@ -18,4 +18,4 @@ def find_min_in_nested_arrays(src)
   print result_array
 end
 
-find_min_in_nested_arrays([0, 3], [4, 6])
+find_min_in_nested_arrays([[0, 3], [4, 6]])
