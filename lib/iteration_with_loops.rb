@@ -17,3 +17,5 @@ def find_min_in_nested_arrays(src)
   end
   print result_array
 end
+
+find_min_in_nested_arrays([0, 3], [4, 6])
