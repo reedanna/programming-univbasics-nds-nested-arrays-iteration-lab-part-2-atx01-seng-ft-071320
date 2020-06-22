@@ -15,7 +15,5 @@ def find_min_in_nested_arrays(src)
     result_array.push(minimum)
     outer_count += 1
   end
-  print result_array
+  result_array
 end
-
-find_min_in_nested_arrays([[0, 3], [4, 6]])
